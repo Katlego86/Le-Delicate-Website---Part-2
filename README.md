@@ -31,7 +31,7 @@ The main objectives for Part 2 were to:
 - improve accessibility through semantic HTML, labels, alternative text and visible keyboard focus states;
 - document the work clearly in GitHub.
 
-## Pages
+## Website Pages
 
 - `index.html` – Home
 - `about.html` – About Us
